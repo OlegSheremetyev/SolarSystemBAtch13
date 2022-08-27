@@ -1,9 +1,8 @@
 package com.company;
 
-public class Sun {
-    public class SUN {
-        String name;
-        String color;
-        String radius;
-        String  temperature;
-}}
+public class SUN {
+    String name;
+    String color;
+  int radius;
+    String  temperature;
+}
