@@ -26,8 +26,15 @@ public class Main {
         superwoman.name="pliea";
         superwoman.color="green";
         
-    }
 
 
 
-}
+    //        developing planet1
+    Planet1 superplanet=new Planet1();
+    superplanet.color="magenta";
+    superplanet.name="hash";
+    superplanet.size="545488km";
+
+
+
+}}
